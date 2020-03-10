@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">MyBiodata</string>
+    <string name="name_value">Rizki Pambudi</string>
+    <string name="nim_value">17104032</string>
+    <string name="class_value">S1SE-01-A</string>
+    <string name="ttl_value">Cilacap, 24 Juli 1998</string>
+    <string name="address_value">Karangjati, Sampang, Cilacap</string>
+    <string name="Hobby_value">Main Game dan Nonton Film</string>
+    <string name="cita_cita_value">Ustadz</string>
+    <string name="my_biodata">My Biodata</string>
+    <string name="nim">NIM</string>
+    <string name="kelas">Kelas</string>
+    <string name="nama">Nama</string>
+    <string name="ttl">TTL</string>
+    <string name="alamat">Alamat</string>
+    <string name="hobi">Hobi</string>
+    <string name="cita_cita">Cita - Cita</string>
+    <string name="btn_contact_title">Kontak Saya</string>
+    <string name="hi">Hi!</string>
+    <string name="invite">Yuk kenal aku lebih dekat lagi!</string>
+    <string name="click_me">Click Me!</string>
+    <string name="photo_profile">photo profile</string>
 </resources>
